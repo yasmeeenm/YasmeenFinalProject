@@ -1,6 +1,6 @@
 # About
 
-This is my final project for Le Wagon London Bootcamp. The aim was to analyse and predict civil wars and revolutions. Our models aim was to highlight early signs of brewing tenssion before they arise,
+This is my final project for Le Wagon London Bootcamp. The aim was to analyse and predict civil wars and revolutions. Our model's aim was to highlight early signs of brewing tension before they arise.
 
 
 ## Website
